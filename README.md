@@ -1,3 +1,3 @@
 # GTKEO
-Project: Getting to Know Each Other
-Author: Brandon Scarano
+<p>Project: Getting to Know Each Other</p>
+<p>Author: Brandon Scarano</p>
