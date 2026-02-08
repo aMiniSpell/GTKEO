@@ -25,3 +25,6 @@ section{
     margin-left: auto;
     margin-right: auto;
 }
+ul.square-list {
+    list-style-type: square;
+}
